@@ -1,0 +1,6 @@
+<map id="IPlugVST3Controller" name="IPlugVST3Controller">
+<area shape="rect" id="node4" href="$class_i_plug_a_p_i_base.html" title="The base class of an IPlug plug&#45;in, which interacts with the different plug&#45;in APIs. " alt="" coords="276,155,380,181"/>
+<area shape="rect" id="node5" href="$class_i_plugin_base.html" title="Base class that contains plug&#45;in info and state manipulation methods. " alt="" coords="282,80,373,107"/>
+<area shape="rect" id="node6" href="$class_i_editor_delegate.html" title="This pure virtual interface delegates communication in both directions between a UI editor and someth..." alt="" coords="227,5,429,32"/>
+<area shape="rect" id="node7" href="$class_i_plug_v_s_t3_controller_base.html" title="Shared VST3 controller code. " alt="" coords="404,155,575,181"/>
+</map>

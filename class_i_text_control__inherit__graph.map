@@ -1,0 +1,8 @@
+<map id="ITextControl" name="ITextControl">
+<area shape="rect" id="node3" href="$class_i_b_text_control.html" title="A control to display text using a monospace bitmap font. " alt="" coords="5,155,107,181"/>
+<area shape="rect" id="node4" href="$class_i_caption_control.html" title="A control to display the textual representation of a parameter. " alt="" coords="131,155,244,181"/>
+<area shape="rect" id="node5" href="$class_i_r_t_text_control.html" title="A control to display some text in the UI, driven by values in the RT audio thread. " alt="" coords="269,155,413,181"/>
+<area shape="rect" id="node6" href="$class_i_text_toggle_control.html" title="ITextToggleControl" alt="" coords="437,155,571,181"/>
+<area shape="rect" id="node7" href="$class_i_v_label_control.html" title="IVLabelControl" alt="" coords="595,155,703,181"/>
+<area shape="rect" id="node2" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="307,5,375,32"/>
+</map>

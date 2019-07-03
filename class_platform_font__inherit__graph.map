@@ -1,0 +1,6 @@
+<map id="PlatformFont" name="PlatformFont">
+<area shape="rect" id="node2" href="$class_core_text_font.html" title="CoreTextFont" alt="" coords="5,80,107,107"/>
+<area shape="rect" id="node3" href="$class_web_font.html" title="WebFont" alt="" coords="132,80,205,107"/>
+<area shape="rect" id="node5" href="$class_win_font.html" title="WinFont" alt="" coords="231,80,301,107"/>
+<area shape="rect" id="node4" href="$class_web_file_font.html" title="WebFileFont" alt="" coords="121,155,217,181"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IPlugVST3ProcessorBase" name="IPlugVST3ProcessorBase">
+<area shape="rect" id="node3" href="$class_i_plug_v_s_t3.html" title="VST3 base class for a non&#45;distributed IPlug VST3 plug&#45;in. " alt="" coords="5,171,91,197"/>
+<area shape="rect" id="node4" href="$class_i_plug_v_s_t3_processor.html" title="VST3 Processor API&#45;base class for a distributed IPlug VST3 plug&#45;in. " alt="" coords="115,171,259,197"/>
+<area shape="rect" id="node2" href="$class_i_plug_processor.html" title="IPlugProcessor\&lt; PLUG\l_SAMPLE_DST \&gt;" alt="" coords="38,6,196,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_platform_font.html" title="/todo " alt="" coords="6,56,103,83"/>
+<area shape="rect" id="node2" href="$class_core_text_font.html" title="CoreTextFont" alt="" coords="153,5,255,32"/>
+<area shape="rect" id="node3" href="$class_web_font.html" title="WebFont" alt="" coords="167,56,241,83"/>
+<area shape="rect" id="node5" href="$class_win_font.html" title="WinFont" alt="" coords="169,107,239,133"/>
+<area shape="rect" id="node4" href="$class_web_file_font.html" title="WebFileFont" alt="" coords="304,56,400,83"/>
+</map>
